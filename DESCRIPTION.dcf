@@ -1,0 +1,11 @@
+Package: aclutil
+Type: Package
+Title: Various functions for basic R operations
+Version: 0.1.1
+Author: Erik Chang
+Maintainer: The package maintainer <audachang@gmail.com>
+Description: Customizing found uility
+
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
