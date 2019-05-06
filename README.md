@@ -1,2 +1,3 @@
-# aclutil
-frequently used R routines in ACL
+# aclutils
+
+requently used R routines in ACL
